@@ -2,4 +2,4 @@
 
 This is a simple dynamic Online_Banking_Website developed with HTML5, CSS3, Bootstrap4 and Javascript.
 
-   - Developed by Vishnu vardhan Guggilam.
+   - Developed by Vishnu Vardhan Guggilam.
